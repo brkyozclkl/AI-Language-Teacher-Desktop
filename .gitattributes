@@ -1,0 +1,11 @@
+# Tüm metin dosyaları için LF kullan
+* text=auto eol=lf
+
+# Spesifik dosya türleri için
+*.txt text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+
+git config user.name "Berkay ÖZÇELİKEL"
+git config user.email "berkayozcelikel0@gmail.com"
