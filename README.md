@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![GitHub last commit]([https://img.shields.io/github/last-commit/berkayozcelikel/ai-language-teacher](https://github.com/brkyozclkl/Control-LEDs-and-monitor-temperature-humidity-via-web-server-on-ESP32))
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green.svg)](https://pypi.org/project/PyQt5/)
 
 <h3>🚀 Yapay Zeka ile Dil Öğrenmenin Geleceği</h3>
 
@@ -88,8 +84,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
   
 **Berkay Özçelikel**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayozcelikel)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/berkayozcelikel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/berkay-özçelikel-68315a1b6)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]([https://github.com/berkayozcelikel](https://github.com/brkyozclkl))
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:berkayozcelikel0@gmail.com)
 
 </div>
