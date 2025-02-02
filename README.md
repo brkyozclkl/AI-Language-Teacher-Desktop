@@ -14,7 +14,6 @@ Bu proje aktif olarak geliştirilme aşamasındadır. Katkılarınız ve öneril
 </tr>
 </table>
 
-
 <img src="docs/app_preview.gif" alt="AI Language Teacher Preview" width="600"/>
 
 </div>
