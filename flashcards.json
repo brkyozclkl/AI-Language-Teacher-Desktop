@@ -1,0 +1,12 @@
+[
+  {
+    "front": "car",
+    "back": "araba",
+    "difficulty": "hard"
+  },
+  {
+    "front": "apple",
+    "back": "elma",
+    "difficulty": "hard"
+  }
+]

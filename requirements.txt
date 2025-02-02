@@ -1,0 +1,10 @@
+PyQt5==5.15.9
+SpeechRecognition==3.10.0
+transformers==4.30.2
+torch==2.2.1
+gTTS==2.3.2
+pyttsx3==2.90
+pandas==2.0.3
+python-dotenv==1.0.0
+sounddevice==0.4.6
+soundfile==0.12.1 
