@@ -5,11 +5,15 @@
 
 <h3>🚀 Yapay Zeka ile Dil Öğrenmenin Geleceği</h3>
 
-[Özellikler](#özellikler) •
-[Hızlı Başlangıç](#hızlı-başlangıç) •
-[Kurulum](#kurulum) •
-[Dokümantasyon](#dokümantasyon) •
-[Katkıda Bulunun](#katkıda-bulunun)
+<table>
+<tr>
+<td>
+⚠️ <b>GELİŞTİRME AŞAMASI</b> ⚠️<br>
+Bu proje aktif olarak geliştirilme aşamasındadır. Katkılarınız ve önerileriniz her zaman açıktır.
+</td>
+</tr>
+</table>
+
 
 <img src="docs/app_preview.gif" alt="AI Language Teacher Preview" width="600"/>
 
