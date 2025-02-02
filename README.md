@@ -1,72 +1,100 @@
-# AI Destekli Masaüstü Dil Öğretmeni
+# 🎯 AI Language Teacher
 
-Yapay zeka teknolojilerini kullanarak dil öğrenmeyi kolaylaştıran ve kişiselleştiren masaüstü uygulaması.
+<div align="center">
 
-## Özellikler
+![GitHub last commit](https://img.shields.io/github/last-commit/berkayozcelikel/ai-language-teacher)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green.svg)](https://pypi.org/project/PyQt5/)
 
-- 🎤 Ses Tanıma ve Telaffuz Analizi
-- 📚 Kişiselleştirilmiş Dersler
-- ✍️ Dilbilgisi ve Kelime Egzersizleri
-- 🔄 Gerçek Zamanlı Gramer ve Çeviri Düzeltme
-- 💬 Etkileşimli Sohbet Botu
-- 📊 İlerleme Takibi
+<h3>🚀 Yapay Zeka ile Dil Öğrenmenin Geleceği</h3>
 
-## Başlangıç
+[Özellikler](#özellikler) •
+[Hızlı Başlangıç](#hızlı-başlangıç) •
+[Kurulum](#kurulum) •
+[Dokümantasyon](#dokümantasyon) •
+[Katkıda Bulunun](#katkıda-bulunun)
 
-### Gereksinimler
+<img src="docs/app_preview.gif" alt="AI Language Teacher Preview" width="600"/>
 
-- Python 3.8 veya üzeri
-- pip (Python paket yöneticisi)
-- Ses kartı (konuşma özellikleri için)
+</div>
 
-### Kurulum
+## 🌟 Özellikler
 
-1. Projeyi klonlayın:
+<div align="center">
+
+| 🎯 Özellik | 📝 Açıklama |
+|------------|-------------|
+| 🎤 **Akıllı Ses Tanıma** | Gerçek zamanlı telaffuz analizi ve geri bildirim |
+| 🤖 **AI Sohbet Asistanı** | Doğal dil işleme destekli konuşma pratiği |
+| 📚 **Kişiselleştirilmiş Müfredat** | Yapay zeka ile özelleştirilmiş öğrenme yolu |
+| 📊 **İlerleme Analizi** | Detaylı öğrenme metrikleri ve başarı takibi |
+| 🔄 **Anlık Çeviri** | Çoklu dil desteği ile anında çeviri |
+| ✍️ **Gramer Kontrolü** | Gelişmiş dilbilgisi analizi ve düzeltme |
+
+</div>
+
+## 🚀 Hızlı Başlangıç
+
 ```bash
-git clone https://github.com/yourusername/ai-language-teacher.git
+# Repoyu klonlayın
+git clone https://github.com/berkayozcelikel/ai-language-teacher.git
+
+# Proje dizinine gidin
 cd ai-language-teacher
-```
 
-2. Sanal ortam oluşturun ve aktifleştirin:
-```bash
-python -m venv venv
-# Windows için
-venv\Scripts\activate
-# Linux/Mac için
-source venv/bin/activate
-```
-
-3. Gerekli paketleri yükleyin:
-```bash
+# Bağımlılıkları yükleyin
 pip install -r requirements.txt
-```
 
-4. Uygulamayı başlatın:
-```bash
+# Uygulamayı başlatın
 python main.py
 ```
 
-## Kullanılan Teknolojiler
+## 💻 Sistem Gereksinimleri
 
-- **PyQt5**: Masaüstü GUI geliştirme
-- **SpeechRecognition**: Konuşma tanıma işlemleri
-- **Transformers (Hugging Face)**: NLP modelleri ve işlemleri
-- **gTTS/pyttsx3**: Metin-konuşma dönüşümü
-- **SQLite**: Yerel veri depolama
-- **NumPy/Pandas**: Veri işleme ve analiz
+- Python 3.8+
+- 4GB RAM (minimum)
+- Windows 10/11, macOS veya Linux
+- Mikrofon (konuşma özellikleri için)
+- Internet bağlantısı
 
-## Katkıda Bulunma
+## 🛠️ Teknoloji Yığını
 
-1. Bu depoyu fork edin
-2. Yeni bir özellik dalı oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Dalınıza push yapın (`git push origin feature/AmazingFeature`)
-5. Bir Pull Request oluşturun
+- **Frontend:** PyQt5
+- **AI Motor:** Transformers (Hugging Face)
+- **Ses İşleme:** SpeechRecognition, gTTS
+- **Veritabanı:** SQLite
+- **Veri Analizi:** NumPy, Pandas
 
-## İletişim
+## 📖 Dokümantasyon
 
-Berkay Özçelikel berkayozcelikel0@gmail.com
+Detaylı dokümantasyon için [Wiki](https://github.com/berkayozcelikel/ai-language-teacher/wiki) sayfamızı ziyaret edin.
 
-## Teşekkürler
+## 🤝 Katkıda Bulunun
 
-Bu proje açık kaynak olarak geliştirilmektedir. 
+1. Fork yapın
+2. Feature branch oluşturun (`git checkout -b feature/muhteşem-özellik`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Muhteşem özellik eklendi'`)
+4. Branch'inizi push edin (`git push origin feature/muhteşem-özellik`)
+5. Pull Request açın
+
+## 📝 Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+
+## 👨‍💻 Geliştirici
+
+<div align="center">
+  
+**Berkay Özçelikel**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayozcelikel)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/berkayozcelikel)
+[![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:berkayozcelikel0@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! 
